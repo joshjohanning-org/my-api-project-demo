@@ -105,4 +105,5 @@ void WorkWithDecimals()
     decimal c = 1.0M;
     decimal d = 3.0M;
     Console.WriteLine(c / b);
+    Console.WriteLine("Hello world!!!!!!");
 }
